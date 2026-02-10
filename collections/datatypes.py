@@ -3,7 +3,7 @@
 list 
 set
 dict
-tuple - inmuttable
+tuple - immuttable
 '''
 
 

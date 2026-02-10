@@ -1,3 +1,11 @@
+# == → checks value
+# is → checks memory reference
+# Use for when number of iterations is known, while when it’s not.
+# Lists are mutable and slower, tuples are immutable and faster. Tuples are used for fixed data and as dictionary keys.
+# Python uses automatic garbage collection. 
+# Python automatically frees memory that is no longer being used by the program, without the programmer having to manually delete it.
+
+
 # ORIDNAL VALUE (ASCII)
 print('a'> 'Z')   #true
 print(ord('a'))   #97

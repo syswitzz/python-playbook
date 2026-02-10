@@ -1,13 +1,13 @@
-# Methods
+# METHODS
 Methods are functions defined within a class.
 
-# Attributes
+# ATTRIBUTES
 Attributes are variables that belong to an object or class. They store data about the object.
 
-# Properties
+# PROPERTIES
 Properties are a controlled way to access an attributes. They use methods (get/set). Used for data encapsulation
 
-# Parameters
+# PARAMETERS
 Parameters are variables passed into a function or method when it is called. They are inputs, not stored data
 
 # OOPS
